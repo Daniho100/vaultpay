@@ -1,0 +1,6 @@
+{
+  "VaultPay.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\USER\\Desktop\\VaultPay\\backend\\src\\VaultPay.Api",
+  "VaultPay.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\USER\\Desktop\\VaultPay\\backend\\src\\VaultPay.Application",
+  "VaultPay.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\USER\\Desktop\\VaultPay\\backend\\src\\VaultPay.Domain",
+  "VaultPay.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\USER\\Desktop\\VaultPay\\backend\\src\\VaultPay.Infrastructure"
+}

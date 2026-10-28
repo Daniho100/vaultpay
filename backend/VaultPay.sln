@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{55FDD4DE-36C2-43A8-AE87-7038B4D82D67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaultPay.Domain", "src\VaultPay.Domain\VaultPay.Domain.csproj", "{B5E083DD-B68E-4B8D-BF81-0856EABDC91C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaultPay.Application", "src\VaultPay.Application\VaultPay.Application.csproj", "{251DE7A2-2304-4A5A-8060-21FEC081BE9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaultPay.Infrastructure", "src\VaultPay.Infrastructure\VaultPay.Infrastructure.csproj", "{0E30B5C3-4B99-4DA9-9933-7D8C12F5B130}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaultPay.Api", "src\VaultPay.Api\VaultPay.Api.csproj", "{3B6C4336-3B26-40E7-A8B1-3E7056A3D9F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{292C7B02-4EF3-4A2F-A0C2-53D588C1209C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaultPay.UnitTests", "tests\VaultPay.UnitTests\VaultPay.UnitTests.csproj", "{564421EB-90F7-4C92-AAE6-3DC40E6CE8C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaultPay.IntegrationTests", "tests\VaultPay.IntegrationTests\VaultPay.IntegrationTests.csproj", "{1DF755BE-FE2C-4A6E-A46C-380E9E5F1F28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5E083DD-B68E-4B8D-BF81-0856EABDC91C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E083DD-B68E-4B8D-BF81-0856EABDC91C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E083DD-B68E-4B8D-BF81-0856EABDC91C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E083DD-B68E-4B8D-BF81-0856EABDC91C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{251DE7A2-2304-4A5A-8060-21FEC081BE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251DE7A2-2304-4A5A-8060-21FEC081BE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251DE7A2-2304-4A5A-8060-21FEC081BE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251DE7A2-2304-4A5A-8060-21FEC081BE9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E30B5C3-4B99-4DA9-9933-7D8C12F5B130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E30B5C3-4B99-4DA9-9933-7D8C12F5B130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E30B5C3-4B99-4DA9-9933-7D8C12F5B130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E30B5C3-4B99-4DA9-9933-7D8C12F5B130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B6C4336-3B26-40E7-A8B1-3E7056A3D9F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B6C4336-3B26-40E7-A8B1-3E7056A3D9F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B6C4336-3B26-40E7-A8B1-3E7056A3D9F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B6C4336-3B26-40E7-A8B1-3E7056A3D9F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{564421EB-90F7-4C92-AAE6-3DC40E6CE8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564421EB-90F7-4C92-AAE6-3DC40E6CE8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564421EB-90F7-4C92-AAE6-3DC40E6CE8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564421EB-90F7-4C92-AAE6-3DC40E6CE8C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF755BE-FE2C-4A6E-A46C-380E9E5F1F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF755BE-FE2C-4A6E-A46C-380E9E5F1F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF755BE-FE2C-4A6E-A46C-380E9E5F1F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF755BE-FE2C-4A6E-A46C-380E9E5F1F28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B5E083DD-B68E-4B8D-BF81-0856EABDC91C} = {55FDD4DE-36C2-43A8-AE87-7038B4D82D67}
+		{251DE7A2-2304-4A5A-8060-21FEC081BE9B} = {55FDD4DE-36C2-43A8-AE87-7038B4D82D67}
+		{0E30B5C3-4B99-4DA9-9933-7D8C12F5B130} = {55FDD4DE-36C2-43A8-AE87-7038B4D82D67}
+		{3B6C4336-3B26-40E7-A8B1-3E7056A3D9F6} = {55FDD4DE-36C2-43A8-AE87-7038B4D82D67}
+		{564421EB-90F7-4C92-AAE6-3DC40E6CE8C0} = {292C7B02-4EF3-4A2F-A0C2-53D588C1209C}
+		{1DF755BE-FE2C-4A6E-A46C-380E9E5F1F28} = {292C7B02-4EF3-4A2F-A0C2-53D588C1209C}
+	EndGlobalSection
+EndGlobal

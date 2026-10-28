@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XWzIZqk86Gh83CrrhQajy2NCiIYS7ssSHfBkXw841LY=",
+  "Source": "VaultPay.Api",
+  "BasePath": "_content/VaultPay.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

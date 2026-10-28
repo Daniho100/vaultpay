@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Application\bin\Debug\net8.0\VaultPay.Application.deps.json
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Application\bin\Debug\net8.0\VaultPay.Application.dll
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Application\bin\Debug\net8.0\VaultPay.Application.pdb
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Application\bin\Debug\net8.0\VaultPay.Domain.dll
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Application\bin\Debug\net8.0\VaultPay.Domain.pdb
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Application\obj\Debug\net8.0\VaultPay.Application.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Application\obj\Debug\net8.0\VaultPay.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Application\obj\Debug\net8.0\VaultPay.Application.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Application\obj\Debug\net8.0\VaultPay.Application.AssemblyInfo.cs
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Application\obj\Debug\net8.0\VaultPay.Application.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Application\obj\Debug\net8.0\VaultPay.9DADB221.Up2Date
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Application\obj\Debug\net8.0\VaultPay.Application.dll
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Application\obj\Debug\net8.0\refint\VaultPay.Application.dll
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Application\obj\Debug\net8.0\VaultPay.Application.pdb
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Application\obj\Debug\net8.0\ref\VaultPay.Application.dll

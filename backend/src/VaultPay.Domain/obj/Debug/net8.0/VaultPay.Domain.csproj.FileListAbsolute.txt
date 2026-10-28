@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Domain\bin\Debug\net8.0\VaultPay.Domain.deps.json
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Domain\bin\Debug\net8.0\VaultPay.Domain.dll
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Domain\bin\Debug\net8.0\VaultPay.Domain.pdb
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Domain\obj\Debug\net8.0\VaultPay.Domain.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Domain\obj\Debug\net8.0\VaultPay.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Domain\obj\Debug\net8.0\VaultPay.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Domain\obj\Debug\net8.0\VaultPay.Domain.AssemblyInfo.cs
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Domain\obj\Debug\net8.0\VaultPay.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Domain\obj\Debug\net8.0\VaultPay.Domain.dll
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Domain\obj\Debug\net8.0\refint\VaultPay.Domain.dll
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Domain\obj\Debug\net8.0\VaultPay.Domain.pdb
+C:\Users\USER\Desktop\VaultPay\backend\src\VaultPay.Domain\obj\Debug\net8.0\ref\VaultPay.Domain.dll
